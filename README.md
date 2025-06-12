@@ -49,7 +49,7 @@ A beautifully animated 3D weather application built using Flutter. This app fetc
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/weather_app.git
+git clone https://github.com/ZAKira-gpu/weather_app.git
 cd weather_app
 flutter pub get
 flutter run
