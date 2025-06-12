@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # 🌤️  Weather App in Flutter
 
-A beautifully animated 3D weather application built using Flutter. This app fetches real-time weather data and visualizes the current condition using interactive 3D models powered by `flutter_cube`.
+A beautifully animated weather application built using Flutter. This app fetches real-time weather data and visualizes the current condition using interactive 3D models powered by .
 
 ---
 
